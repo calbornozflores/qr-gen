@@ -1,0 +1,4 @@
+argparse
+qrcode
+Pillow
+six
